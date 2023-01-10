@@ -6,4 +6,5 @@ main {
   height: fit-content;
   align-content: flex-start;
   position: relative;
+  background-color: black;
 }
