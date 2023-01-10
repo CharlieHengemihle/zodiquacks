@@ -3,7 +3,7 @@ main {
   flex-wrap: wrap;
   margin-bottom: 40px;
   background-size: cover;
-  height: fit-content;
+  height: 90vh;
   align-content: flex-start;
   position: relative;
   background-color: black;

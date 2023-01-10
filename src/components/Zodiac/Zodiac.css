@@ -8,9 +8,15 @@
   margin: 10px;
   padding: 20px;
   width: 200px;
+  height: 20vh;
+  font-size: x-large;
+}
+
+.dates {
+  margin-top: 10px;
 }
 
 .zodiac img {
-  width: 100px;
-  padding-top: 20px;
+  width: fit-content;
+  height: 15vh;
 }
