@@ -1,0 +1,22 @@
+.zodiac {
+  align-items: center;
+  background-color: var(--color3);
+  border-radius: 5px;
+  color: var(--color5);
+  display: flex;
+  flex-direction: column-reverse;
+  margin: 10px;
+  padding: 20px;
+  width: 200px;
+  height: 20vh;
+  font-size: x-large;
+}
+
+.dates {
+  margin-top: 10px;
+}
+
+.zodiac img {
+  width: fit-content;
+  height: 15vh;
+}

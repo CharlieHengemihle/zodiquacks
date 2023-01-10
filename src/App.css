@@ -7,6 +7,17 @@
   pointer-events: none;
 }
 
+body {
+  --color1: #000202;
+  --color2: #e7e7e7;
+  --color3: #ed09099c;
+  --color4: #054458;
+  --color5: #450688;
+  --header-height: 40px;
+  font-family: 'Metal Mania', cursive;
+  background-color: var(--color1);
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -21,7 +32,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: var(--color5);
 }
 
 .App-link {
