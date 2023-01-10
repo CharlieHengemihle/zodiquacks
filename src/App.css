@@ -7,6 +7,16 @@
   pointer-events: none;
 }
 
+body {
+  --color1: #000202;
+  --color3: #ed0909;
+  --color2: #e7e7e7;
+  --color4: #054458;
+  --color5: #450688;
+  --header-height: 40px;
+  font-family: 'Metal Mania', cursive;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
